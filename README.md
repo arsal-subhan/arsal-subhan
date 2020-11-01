@@ -36,9 +36,15 @@ class Skills extends Arsenals {
   frameworks = ['Wordpress', 'Bootstrap', 'Docker', 'EJS','SAP'];
 }
 
-* [java](https://github.com/arsal-subhan/Java-Excercises) - Java Programs codded at Th-wildau .
-const url = new URL('https://github.com/arsal-subhan/Java-Excercises');
-url.href; // => 'https://github.com/arsal-subhan/Java-Excercises'
+
+
+<script>
+function myFunction() {
+  var str = "Free Web Building Tutorials!";
+  var result = str.link("https://github.com/arsal-subhan/Java-Excercises");
+  document.getElementById("demo").innerHTML = result;
+}
+</script>
 
 ```
 * [java](https://github.com/arsal-subhan/Java-Excercises) - Java Programs codded at Th-wildau .
