@@ -1,4 +1,4 @@
-### Hey cooders you stteped right into the spot where the fun begins... 👋
+### Hey cooders you stepped right into the spot where the fun begins... 👋
 
 <!--
 **arsal-subhan/arsal-subhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
