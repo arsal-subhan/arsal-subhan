@@ -1,4 +1,4 @@
-### Hey cooders you stepped right into the spot where the fun begins... 👋
+### Hey coders you stepped right into the spot where the fun begins... 👋
 
 <!--
 **arsal-subhan/arsal-subhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,22 +31,12 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends Arsenals {
-  languages  = ['JavaScript', 'PHP','JAVA',Phyton,];
+  languages  = ['JavaScript', 'PHP','JAVA','Phyton',];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['Wordpress', 'Bootstrap', 'Docker', 'EJS','SAP'];
 }
 
 
-
-<script>
-function myFunction() {
-  var str = "Free Web Building Tutorials!";
-  var result = str.link("https://github.com/arsal-subhan/Java-Excercises");
-  document.getElementById("demo").innerHTML = result;
-}
-</script>
-
 ```
-* [java](https://github.com/arsal-subhan/Java-Excercises) - Java Programs codded at Th-wildau .
 
 
