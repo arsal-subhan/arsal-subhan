@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
+  name     = 'arsal subhan';
   title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+
 }
 
 class Skills extends SoftwareDeveloper {
