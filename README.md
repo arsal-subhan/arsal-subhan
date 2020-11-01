@@ -38,7 +38,7 @@ class Skills extends Arsenals {
 
 Class Repository extends java-Excercise { 
 
- <a href=https://github.com/arsal-subhan/Java-Excercises>Java programs that were solved at Th-Wildau</a>
+ <a href=https://github.com/arsal-subhan/Java-Excercises>github.com/arsal-subhan/Java-Excercises</a>
 
 }
 
