@@ -19,17 +19,23 @@ Here are some ideas to get you started:
 </p>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'The_Great_one';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'arsal subhan';
-  title    = 'Software Engineer';
-
+  name         = 'arsal_subhan';
+  ambitions    = ['Software_Development','Web_Development','Data_Analyst','Data_Management '];
+  Job          = 'Open_to_work(ready_to_lead)';
+  Studies      = 'Management_Information_System(3rd_year)' ;
+ 
+ 
 }
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+class Skills extends Arsenals {
+  languages  = ['JavaScript', 'PHP','JAVA',Phyton,];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = ['Wordpress', 'Bootstrap', 'Docker', 'EJS','SAP'];
 }
+
+Class Repository extends java-Excercise { 
+[Java](https://github.com/arsal-subhan/Java-Excercises) - Java programs that were solved at Th-Wildau.
 ```
