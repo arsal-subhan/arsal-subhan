@@ -36,10 +36,9 @@ class Skills extends Arsenals {
   frameworks = ['Wordpress', 'Bootstrap', 'Docker', 'EJS','SAP'];
 }
 
-Class Repository extends java-Excercise { 
 
- <a href=https://github.com/arsal-subhan/Java-Excercises>github.com/arsal-subhan/Java-Excercises</a>
-
-}
 
 ```
+* [java](https://github.com/arsal-subhan/Java-Excercises) - Java Programs codded at Th-wildau .
+
+
