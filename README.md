@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://github.com/arsal-subhan/arsal-subhan/raw/main/arsal_matrix_.gif" />
+  <img src="https://github.com/arsal-subhan/arsal-subhan/raw/main/arsal-matrix-min.gif" />
 </p>
 
 ```js
